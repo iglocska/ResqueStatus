@@ -1,8 +1,8 @@
 {
-    "name": "kamisama/resque-status",
-    "description": "A API for saving a php-resque worker settings and status",
+    "name": "iglocska/resque-status",
+    "description": "A API for saving a php-resque worker settings and status. A fork of Kamisama's project for MISP",
     "keywords": ["php-resque", "worker", "status"],
-    "homepage": "http://github.com/kamisama/ResqueStatus",
+    "homepage": "http://github.com/iglocska/ResqueStatus",
     "type": "library",
     "license": "MIT",
     "authors": [
